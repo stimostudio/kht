@@ -1377,11 +1377,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  .card-wrapper {
-    flex: auto!important;
-  }
-}
 .cid-rhpHGHEOhC .navbar {
   padding: .5rem 0;
   background: #333333;
