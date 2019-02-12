@@ -1,2 +1,0 @@
-# kht
-GitHub Pages
